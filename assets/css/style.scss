@@ -1,0 +1,8 @@
+---
+---
+
+$tab-count: {{ site.tabs | size | plus: 1 }};
+
+@import "{{ site.theme }}";
+
+// add your style below
