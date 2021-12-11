@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://hadiasyrafi.github.io//posts/understanding-i2c/</loc>
+<lastmod>2021-10-31T15:30:00+08:00</lastmod>
+</url>
+<url>
+<loc>https://hadiasyrafi.github.io//categories/</loc>
+<lastmod>2021-12-11T18:31:02+08:00</lastmod>
+</url>
+<url>
+<loc>https://hadiasyrafi.github.io//tags/</loc>
+<lastmod>2021-12-11T18:31:02+08:00</lastmod>
+</url>
+<url>
+<loc>https://hadiasyrafi.github.io//archives/</loc>
+<lastmod>2021-12-11T18:31:02+08:00</lastmod>
+</url>
+<url>
+<loc>https://hadiasyrafi.github.io//about/</loc>
+<lastmod>2021-12-11T18:31:02+08:00</lastmod>
+</url>
+<url>
+<loc>https://hadiasyrafi.github.io//</loc>
+</url>
+<url>
+<loc>https://hadiasyrafi.github.io//tags/sniffing/</loc>
+</url>
+<url>
+<loc>https://hadiasyrafi.github.io//categories/protocol/</loc>
+</url>
+<url>
+<loc>https://hadiasyrafi.github.io//categories/serial/</loc>
+</url>
+</urlset>
